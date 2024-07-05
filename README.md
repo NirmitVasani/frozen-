@@ -1,4 +1,4 @@
 # frozen-
 for the details of the frozen items
 <br>
-Auther - Nirmit Vasani
+Auther - Nirmit Patel
